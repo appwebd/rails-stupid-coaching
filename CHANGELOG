@@ -1,0 +1,15 @@
+c1220ca Tue Jul 20 09:44:51 2021 -0400 deleted: .github/workflows/rubocop-analysis.yml
+273784f Mon Jul 19 20:50:46 2021 -0400 Update rubocop-analysis.yml
+2b0a895 Mon Jul 19 20:44:35 2021 -0400 fixing security issues
+84de3af Mon Jul 19 20:40:29 2021 -0400 Update questions_controller.rb
+87560c1 Mon Jul 19 20:39:29 2021 -0400 Update .ruby-version
+baa948c Mon Jul 19 20:35:02 2021 -0400 Create brakeman-analysis.yml
+357a68d Mon Jul 19 20:34:11 2021 -0400 Merge pull request #2 from appwebd/appwebd-patch-1
+8a8a7f0 Mon Jul 19 20:33:00 2021 -0400 Create rubocop-analysis.yml
+8263397 Mon Jul 19 19:29:11 2021 -0400 Merge pull request #1 from appwebd/dependabot/bundler/puma-4.3.8
+5a7cafa Mon Jul 19 19:28:46 2021 -0400 Create SECURITY.md
+5bfc16e Mon Jul 19 18:29:54 2021 -0400 was solved rails-stupid-coaching
+5839cea Mon Jul 19 21:04:31 2021 +0000 Bump puma from 3.12.6 to 4.3.8
+d96f781 Mon Jul 19 17:03:35 2021 -0400 First approach solution exercise rails-stupid-coaching
+e3d9108 Mon Jul 19 15:54:46 2021 -0400 Delete .idea directory
+ed6d8d4 Mon Jul 19 15:42:44 2021 -0400 rails new
