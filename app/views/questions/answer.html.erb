@@ -1,13 +1,19 @@
-<h1>Stupid coaching</h1>
-<div class="box">
-  <p><%= params[:question] %></p>
-  <p><em>-You</em></p>
-</div>
+<h1>Stupid Coaching</h1>
 
-<div class="box" id="reply">
-  <p><strong><%= @reply %></strong></p>
-  <p><em>-Coach</em></p>
-</div>
+<blockquote>
+  <p>
+    <% if @question.blank? %>
+      😶
+    <% else %>
+      <%= @question %>
+    <% end %>
+  </p>
+  <cite>You</cite>
+</blockquote>
 
-<%= link_to 'Ask another question here',
-            ask_path %>
+<blockquote class="coach">
+  <p><%= @answer %></p>
+  <cite>Your coach</cite>
+</blockquote>
+
+<%= link_to "Ask a new question", ask_path %>

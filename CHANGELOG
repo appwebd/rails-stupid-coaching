@@ -1,3 +1,5 @@
+f978779 Tue Jul 20 17:58:18 2021 -0400 was added title in ask and answer views.
+dcdf200 Tue Jul 20 09:49:46 2021 -0400 deleted: .github/workflows/brakeman-analysis.yml
 c1220ca Tue Jul 20 09:44:51 2021 -0400 deleted: .github/workflows/rubocop-analysis.yml
 273784f Mon Jul 19 20:50:46 2021 -0400 Update rubocop-analysis.yml
 2b0a895 Mon Jul 19 20:44:35 2021 -0400 fixing security issues
